@@ -1,0 +1,13 @@
+body{
+  font-family: 'Sunflower', sans-serif;
+}
+h1{
+  color: red;
+}
+strong{
+  color : blue;
+  border-bottom: 5px solid currentColor;
+}
+div{
+  
+}

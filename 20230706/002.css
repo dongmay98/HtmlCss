@@ -1,0 +1,22 @@
+h1 {
+  font-family: 'Arial', sans-serif;
+  font-size: 40px;
+  color: #FF69B4;
+  text-align: center;
+  text-transform: uppercase;
+  margin-top: 50px;
+  text-decoration: none;
+  
+}
+
+p {
+  font-family: 'Arial', sans-serif;
+  font-size: 24px;
+  color: #800080;
+  text-align: center;
+  margin-top: 20px;
+}
+
+body {
+  background-color: #FCE4EC;
+}

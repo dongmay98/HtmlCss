@@ -1,0 +1,30 @@
+*{
+  margin: 30px;  
+}
+.a{
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  background-color: #343f50;
+  color: white;
+  font-size: 30px;
+  padding-top: 50px;
+  box-shadow: 
+  0 0 0 10px #4a5568,
+  0 0 0 20px #000;
+}
+.b{
+  float: left;
+  display: flex;
+}
+.c{
+  display: inline-block;
+  background-color: skyblue;
+  padding: 10px 20px;
+  background-color: linear-gradient(90deg,#834df6 0%, #336df2 100%);
+  color: white;
+  border-radius: 50px;
+}
+.d{
+
+}

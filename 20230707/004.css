@@ -1,0 +1,31 @@
+div{
+  width: 100px;
+  height: 100px;
+  background-color: slateblue;
+  margin: 10px;
+}
+.box1{
+  border-radius: 50px;
+}
+.width2{
+  width:100px;
+  border-radius: 50px;
+}
+.box2{
+  border-radius: 10px;
+}
+.box3{
+  border-radius: 100% 0 0 0;
+}
+.box4{
+  border-radius: 100% 0;
+}
+.box5{
+  border-radius: 0 50%;
+}
+.box6{
+  border-radius: 50px 50px 0 0;
+}
+.width3{
+  height: 50px;
+}
