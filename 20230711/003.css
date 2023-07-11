@@ -1,0 +1,28 @@
+
+header{
+  background-color: aqua;
+  display: flex;
+  flex-direction: column;
+  height: 150px;
+}
+.container{
+  display: flex;
+  height: 300px;
+}
+.section,
+.aside{
+  flex-basis: 0;
+}
+
+section{
+  background-color: red;
+  flex-grow: 3;
+}
+aside{
+  background-color: yellow;
+  flex-grow: 1;
+}
+footer{
+  background-color: purple;
+  height: 150px;
+}
