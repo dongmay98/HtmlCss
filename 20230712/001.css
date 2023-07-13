@@ -1,0 +1,17 @@
+.post-card{
+  width: 288px;
+  height: 374px;
+  background-color: aqua;
+  /* display: flex; */
+}
+
+.upper{
+  width: 256px;
+  height: 40px;
+  background-color: antiquewhite;
+}
+.img1{
+  width: 50px;
+  height: 20px;
+  background-color: red;
+}
