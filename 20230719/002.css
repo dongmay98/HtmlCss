@@ -1,0 +1,25 @@
+body{
+  height: 200vh;
+}
+/* @media (min-width:640px) and (max-width:1000px){
+  body{
+    background-color: aqua;
+  }
+}
+@media (min-height:500px) and (max-height:600px){
+  body{
+    font-size: 100px;
+  }
+} */
+
+@media(orientation:landscape){
+  body{
+    background-color: bisque;
+  }
+}
+
+@media(orientation:portrait){
+  body{
+    background-color: black;
+  }
+}
